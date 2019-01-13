@@ -7,7 +7,8 @@ This is an additional framework that exclusively utilizes CSS grid to produce la
 
 This can also be combined with stylesheets if you need to create extra specific layouts or to declare items in "area" cells the style declarations for grid template areas and grid template are as such:
 
-```.grid-stuff {
+```
+.grid-stuff {
   grid-template: "one two three";
   grid-template-areas: "one two three";
 }
