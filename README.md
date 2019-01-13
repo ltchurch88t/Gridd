@@ -9,22 +9,22 @@ All styles are applied as HTML classes keeping with the concept of layout in HTM
 The sytax is as follows:
 
 ### Basic grid declaration
-   grid
+`<div class="grid"></div>`
 
 ### Prebuilt grid dimensions
-  grid2x2
-  grid3x3
-  grid4x4
-  grid12x12
+`<div class="grid2x2"></div>`
+`<div class="grid3x3"></div>`
+`<div class="grid4x4"></div>`
+`<div class="grid12x12"></div>`
 
 ### Custom grid dimensions
-  grid grid-cols-3 grid-rows2
+`<div class="grid grid-cols-3 grid-rows2"></div>`
 
 ### Custom grid layout with various breakpoints
-  grid grid-cols-4-l grid-rows-2-l grid-cols-1 grid-rows-8
+`<div class="grid grid-cols-4-l grid-rows-2-l grid-cols-1 grid-rows-8"></div>`
 
 ### Declaring sub-items inside grid cells for a 12x12 grid
-  u-col-2 u-row-1
+`<div class="u-col-2 u-row-1"></div>`
 
 ### Declaring sub-items inside grid cells for a 12x12 grid at breakpoints
-  u-col-2-l u-row-1-l u-col-5-m u-row-2-m u-col-1 u-row-8
+`<div class="u-col-2-l u-row-1-l u-col-5-m u-row-2-m u-col-1 u-row-8"></div>`
