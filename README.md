@@ -14,7 +14,8 @@ This can also be combined with stylesheets if you need to create extra specific 
 .grid-item {
   grid-cell: "one";
   grid-area: one;
-}```
+}
+```
 
 The above portion utilizes the current spec for grid-template-areas and the 2011 spec for IE10 grid cell
 
