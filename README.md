@@ -3,6 +3,8 @@ CSS Grid Framework pre-built with IE 10+ compatibility
 
 Breakpoints are same one used for frameworks such as [Tachyons](https://tachyons.io/)
 
+This is an additional framework that exclusively utilizes CSS grid to produce layouts. This is especcially efective on creating header/menu layouts or for creating uniquely declared layouts for web projects. This also works great as an addition to any frameworks you may be already using. I use this alongside Tachyons just add in another tool for more direct uses.
+
 All styles are applied as HTML classes keeping with the concept of layout in HTML and styles separate in our stylesheets.
 The sytax is as follows:
 
