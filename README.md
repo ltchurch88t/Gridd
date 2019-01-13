@@ -5,6 +5,20 @@ Breakpoints are same one used for frameworks such as [Tachyons](https://tachyons
 
 This is an additional framework that exclusively utilizes CSS grid to produce layouts. This is especcially efective on creating header/menu layouts or for creating uniquely declared layouts for web projects. This also works great as an addition to any frameworks you may be already using. I use this alongside Tachyons just add in another tool for more direct uses.
 
+This can also be combined with stylesheets if you need to create extra specific layouts or to declare items in "area" cells the style declarations for grid template areas and grid template are as such:
+
+`.grid-stuff {
+  grid-template: "one two three";
+  grid-template-areas: "one two three";
+}
+.grid-item {
+  grid-cell: "one";
+  grid-area: one;
+}
+
+`
+The above portion utilizes the current spec for grid-template-areas and the 2011 spec for IE10 grid cell
+
 All styles are applied as HTML classes keeping with the concept of layout in HTML and styles separate in our stylesheets.
 The sytax is as follows:
 
