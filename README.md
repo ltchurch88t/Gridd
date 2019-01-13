@@ -7,7 +7,6 @@ This is an additional framework that exclusively utilizes CSS grid to produce la
 
 This can also be combined with stylesheets if you need to create extra specific layouts or to declare items in "area" cells the style declarations for grid template areas and grid template are as such:
 
-<<<<<<< HEAD
 ```.grid-stuff {
   grid-template: "one two three";
   grid-template-areas: "one two three";
@@ -16,16 +15,7 @@ This can also be combined with stylesheets if you need to create extra specific 
   grid-cell: "one";
   grid-area: one;
 }```
-=======
-`.grid-stuff {  
-  grid-template: "one two three";  
-  grid-template-areas: "one two three";  
-}  
-.grid-item {  
-  grid-cell: "one";  
-  grid-area: one;  
-}`
->>>>>>> 0b5285481c4be4d802541354bffb6ad7b740ca93
+
 The above portion utilizes the current spec for grid-template-areas and the 2011 spec for IE10 grid cell
 
 All styles are applied as HTML classes keeping with the concept of layout in HTML and styles separate in our stylesheets.
