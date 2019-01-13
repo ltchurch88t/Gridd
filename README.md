@@ -12,10 +12,10 @@ The sytax is as follows:
 `<div class="grid"></div>`
 
 ### Prebuilt grid dimensions
-`<div class="grid2x2"></div>`
-`<div class="grid3x3"></div>`
-`<div class="grid4x4"></div>`
-`<div class="grid12x12"></div>`
+`<div class="grid2x2"></div>`  
+`<div class="grid3x3"></div>`  
+`<div class="grid4x4"></div>`  
+`<div class="grid12x12"></div>`  
 
 ### Custom grid dimensions
 `<div class="grid grid-cols-3 grid-rows2"></div>`
