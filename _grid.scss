@@ -77,7 +77,8 @@ $col-span-slug: u-col-span;
 
 .grid-2x2 {
   display: grid;
-  display: -ms-grid; grid-template-columns: $two;
+  display: -ms-grid; 
+  grid-template-columns: $two;
   -ms-grid-columns: $two;
   grid-template-rows: $two;
   -ms-grid-rows: $two;
@@ -130,7 +131,7 @@ $col-span-slug: u-col-span;
 }
 
 @for $n from 1 through 12 {
-	@for $i from 1 through $n {
+	@for $i from 1 through 12 {
     @if ($n < $i) {
       .#{$row-span-slug}-#{$n}-#{$i} {
         @include span-row($n, $i);
@@ -167,7 +168,7 @@ $col-span-slug: u-col-span;
   }
 
   @for $n from 1 through 12 {
-    @for $i from 1 through $n {
+    @for $i from 1 through 12 {
       @if ($n < $i) {
         .#{$row-span-slug}-#{$n}-#{$i}-l {
           @include span-row($n, $i);
@@ -205,7 +206,7 @@ $col-span-slug: u-col-span;
   }
 
   @for $n from 1 through 12 {
-    @for $i from 1 through $n {
+    @for $i from 1 through 12 {
       @if ($n < $i) {
         .#{$row-span-slug}-#{$n}-#{$i}-m {
           @include span-row($n, $i);
@@ -243,7 +244,7 @@ $col-span-slug: u-col-span;
   }
 
   @for $n from 1 through 12 {
-    @for $i from 1 through $n {
+    @for $i from 1 through 12 {
       @if ($n < $i) {
         .#{$row-span-slug}-#{$n}-#{$i}-ns {
           @include span-row($n, $i);
