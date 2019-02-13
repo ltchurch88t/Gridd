@@ -2,7 +2,7 @@
 CSS Grid Framework pre-built with IE 10+ compatibility
 
 ## CDN and NPM
-CDN: [https://unpkg.com/tachy-grid@1.0.0/grid.min.css](https://unpkg.com/tachy-grid@1.0.0/grid.min.css)
+CDN: [https://unpkg.com/tachy-grid@1.0.1/grid.min.css](https://unpkg.com/tachy-grid@1.0.1/grid.min.css)
 NPM: [https://www.npmjs.com/package/tachy-grid](https://www.npmjs.com/package/tachy-grid)
 
 Breakpoints are same one used for frameworks such as [Tachyons](https://tachyons.io/)
