@@ -17,37 +17,37 @@ Contact: cephalodocs@gmail.com
 .grid-2x2 {
   display: grid;
   display: -ms-grid;
-  grid-template-columns: repeat(2, 1fr);
-  -ms-grid-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  -ms-grid-rows: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr;
 }
 
 .grid-3x3 {
   display: grid;
   display: -ms-grid;
-  grid-template-columns: repeat(3, 1fr);
-  -ms-grid-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 1fr);
-  -ms-grid-rows: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
 }
 
 .grid-4x4 {
   display: grid;
   display: -ms-grid;
-  grid-template-columns: repeat(4, 1fr);
-  -ms-grid-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  -ms-grid-rows: repeat(4, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr 1fr;
 }
 
 .grid-12x12 {
   display: grid;
   display: -ms-grid;
-  grid-template-columns: repeat(12, 1fr);
-  -ms-grid-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(12, 1fr);
-  -ms-grid-rows: repeat(12, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 .grid-cols-1 {

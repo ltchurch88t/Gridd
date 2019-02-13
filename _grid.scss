@@ -9,17 +9,17 @@ Contact: cephalodocs@gmail.com
 
 /* Variables */
 $one: 1fr;
-$two: repeat(2, 1fr);
-$three: repeat(3, 1fr);
-$four: repeat(4, 1fr);
-$five: repeat(5, 1fr);
-$six: repeat(6, 1fr);
-$seven: repeat(7, 1fr);
-$eight: repeat(8, 1fr);
-$nine: repeat(9, 1fr);
-$ten: repeat(10, 1fr);
-$eleven: repeat(11, 1fr);
-$twelve: repeat(12, 1fr);
+$two: 1fr 1fr;
+$three: 1fr 1fr 1fr;
+$four: 1fr 1fr 1fr 1fr;
+$five: 1fr 1fr 1fr 1fr;
+$six: 1fr 1fr 1fr 1fr 1fr 1fr;
+$seven:1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$eight: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$nine: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$ten: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$eleven:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$twelve:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 $row-slug: u-row;
 $col-slug: u-col;
 $grid-row-slug: grid-rows;
