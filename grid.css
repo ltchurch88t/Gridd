@@ -884,7 +884,7 @@ Contact: cephalodocs@gmail.com
   -ms-grid-column: 11;
 }
 
-@media (max-width: 60em) and (min-width: 40em) {
+@media (min-width: 60em) {
   .grid-cols-1-l {
     -ms-grid-columns: repeat(1, 1fr);
     grid-template-columns: repeat(1, 1fr);
@@ -1719,7 +1719,7 @@ Contact: cephalodocs@gmail.com
     -ms-grid-column: 11;
   }
 }
-@media (max-width: 40em) and (min-width: 30em) {
+@media (max-width: 60em) and (min-width: 30em) {
   .grid-cols-1-m {
     -ms-grid-columns: repeat(1, 1fr);
     grid-template-columns: repeat(1, 1fr);

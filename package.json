@@ -1,6 +1,6 @@
 {
   "name": "tachy-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grid Framework compatible with IE",
   "main": "grid.css",
   "scripts": {

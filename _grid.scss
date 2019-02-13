@@ -147,7 +147,7 @@ $col-span-slug: u-col-span;
 	}
 }
 
-@media (max-width: 60em) and (min-width: 40em) {
+@media (min-width: 60em) {
   @for $l from 1 through 12 {
     .#{$grid-col-slug}-#{$l}-l {
       @include grid-cols($l);
@@ -185,7 +185,7 @@ $col-span-slug: u-col-span;
   }
 }
 
-@media (max-width: 40em) and (min-width: 30em) {
+@media (max-width: 60em) and (min-width: 30em) {
   @for $l from 1 through 12 {
     .#{$grid-col-slug}-#{$l}-m {
       @include grid-cols($l);
