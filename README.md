@@ -1,5 +1,9 @@
-# Gridd
+# Tachy-Grid
 CSS Grid Framework pre-built with IE 10+ compatibility
+
+## CDN and NPM
+CDN: [https://unpkg.com/tachy-grid@1.0.0/grid.min.css](https://unpkg.com/tachy-grid@1.0.0/grid.min.css)
+NPM: [https://www.npmjs.com/package/tachy-grid](https://www.npmjs.com/package/tachy-grid)
 
 Breakpoints are same one used for frameworks such as [Tachyons](https://tachyons.io/)
 
@@ -27,10 +31,10 @@ The sytax is as follows:
 `<div class="grid"></div>`
 
 ### Prebuilt grid dimensions
-`<div class="grid2x2"></div>`  
-`<div class="grid3x3"></div>`  
-`<div class="grid4x4"></div>`  
-`<div class="grid12x12"></div>`  
+`<div class="grid-2x2"></div>`  
+`<div class="grid-3x3"></div>`  
+`<div class="grid-4x4"></div>`  
+`<div class="grid-12x12"></div>`  
 
 ### Custom grid dimensions
 `<div class="grid grid-cols-3 grid-rows2"></div>`
