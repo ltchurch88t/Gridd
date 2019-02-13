@@ -35,10 +35,10 @@ Contact: cephalodocs@gmail.com
 .grid-4x4 {
   display: grid;
   display: -ms-grid;
-  grid-template-columns: repeaat(4, 1fr);
-  -ms-grid-columns: repeaat(4, 1fr);
-  grid-template-rows: repeaat(4, 1fr);
-  -ms-grid-rows: repeaat(4, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  -ms-grid-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  -ms-grid-rows: repeat(4, 1fr);
 }
 
 .grid-12x12 {
