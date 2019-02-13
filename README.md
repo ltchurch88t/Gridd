@@ -1,4 +1,4 @@
-# Gridd
+# Tachy-Grid
 CSS Grid Framework pre-built with IE 10+ compatibility
 
 ## CDN and NPM
