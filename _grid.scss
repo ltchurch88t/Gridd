@@ -51,8 +51,8 @@ $col-span-slug: u-col-span;
 }
 
 @mixin row($row) {
-	grid-column: $row;
-	-ms-grid-column: $row;
+	grid-row: $row;
+	-ms-grid-row: $row;
 }
 
 @mixin grid-rows($num-rows) {
