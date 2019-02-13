@@ -1,6 +1,10 @@
 # Gridd
 CSS Grid Framework pre-built with IE 10+ compatibility
 
+## CDN and NPM
+CDN: [https://unpkg.com/tachy-grid@1.0.0/grid.min.css](https://unpkg.com/tachy-grid@1.0.0/grid.min.css)
+NPM: [https://www.npmjs.com/package/tachy-grid](https://www.npmjs.com/package/tachy-grid)
+
 Breakpoints are same one used for frameworks such as [Tachyons](https://tachyons.io/)
 
 This is an additional framework that exclusively utilizes CSS grid to produce layouts. This is especcially efective on creating header/menu layouts or for creating uniquely declared layouts for web projects. This also works great as an addition to any frameworks you may be already using. I use this alongside Tachyons just add in another tool for more direct uses.
