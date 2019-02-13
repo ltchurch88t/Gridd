@@ -296,6 +296,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 2;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-3 {
@@ -304,6 +305,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 3;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-4 {
@@ -312,6 +314,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 4;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-5 {
@@ -320,6 +323,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 5;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-6 {
@@ -328,6 +332,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 6;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-7 {
@@ -336,6 +341,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 7;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-8 {
@@ -344,6 +350,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 8;
   grid-column-span: 8;
   -ms-grid-column-span: 8;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-9 {
@@ -352,6 +359,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 9;
   grid-column-span: 9;
   -ms-grid-column-span: 9;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-10 {
@@ -360,6 +368,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 10;
   grid-column-span: 10;
   -ms-grid-column-span: 10;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-11 {
@@ -368,6 +377,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 11;
   grid-column-span: 11;
   -ms-grid-column-span: 11;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-1-12 {
@@ -376,6 +386,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 1/span 12;
   grid-column-span: 12;
   -ms-grid-column-span: 12;
+  -ms-grid-column: 1;
 }
 
 .u-col-span-2-3 {
@@ -384,6 +395,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 3;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-4 {
@@ -392,6 +404,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 4;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-5 {
@@ -400,6 +413,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 5;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-6 {
@@ -408,6 +422,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 6;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-7 {
@@ -416,6 +431,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 7;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-8 {
@@ -424,6 +440,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 8;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-9 {
@@ -432,6 +449,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 9;
   grid-column-span: 8;
   -ms-grid-column-span: 8;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-10 {
@@ -440,6 +458,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 10;
   grid-column-span: 9;
   -ms-grid-column-span: 9;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-11 {
@@ -448,6 +467,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 11;
   grid-column-span: 10;
   -ms-grid-column-span: 10;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-2-12 {
@@ -456,6 +476,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 2/span 12;
   grid-column-span: 11;
   -ms-grid-column-span: 11;
+  -ms-grid-column: 2;
 }
 
 .u-col-span-3-4 {
@@ -464,6 +485,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 4;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-5 {
@@ -472,6 +494,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 5;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-6 {
@@ -480,6 +503,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 6;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-7 {
@@ -488,6 +512,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 7;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-8 {
@@ -496,6 +521,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 8;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-9 {
@@ -504,6 +530,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 9;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-10 {
@@ -512,6 +539,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 10;
   grid-column-span: 8;
   -ms-grid-column-span: 8;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-11 {
@@ -520,6 +548,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 11;
   grid-column-span: 9;
   -ms-grid-column-span: 9;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-3-12 {
@@ -528,6 +557,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 3/span 12;
   grid-column-span: 10;
   -ms-grid-column-span: 10;
+  -ms-grid-column: 3;
 }
 
 .u-col-span-4-5 {
@@ -536,6 +566,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 5;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-6 {
@@ -544,6 +575,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 6;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-7 {
@@ -552,6 +584,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 7;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-8 {
@@ -560,6 +593,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 8;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-9 {
@@ -568,6 +602,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 9;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-10 {
@@ -576,6 +611,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 10;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-11 {
@@ -584,6 +620,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 11;
   grid-column-span: 8;
   -ms-grid-column-span: 8;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-4-12 {
@@ -592,6 +629,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 4/span 12;
   grid-column-span: 9;
   -ms-grid-column-span: 9;
+  -ms-grid-column: 4;
 }
 
 .u-col-span-5-6 {
@@ -600,6 +638,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 6;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-7 {
@@ -608,6 +647,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 7;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-8 {
@@ -616,6 +656,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 8;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-9 {
@@ -624,6 +665,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 9;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-10 {
@@ -632,6 +674,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 10;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-11 {
@@ -640,6 +683,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 11;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-5-12 {
@@ -648,6 +692,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 5/span 12;
   grid-column-span: 8;
   -ms-grid-column-span: 8;
+  -ms-grid-column: 5;
 }
 
 .u-col-span-6-7 {
@@ -656,6 +701,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 7;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-6-8 {
@@ -664,6 +710,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 8;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-6-9 {
@@ -672,6 +719,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 9;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-6-10 {
@@ -680,6 +728,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 10;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-6-11 {
@@ -688,6 +737,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 11;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-6-12 {
@@ -696,6 +746,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 6/span 12;
   grid-column-span: 7;
   -ms-grid-column-span: 7;
+  -ms-grid-column: 6;
 }
 
 .u-col-span-7-8 {
@@ -704,6 +755,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 7/span 8;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 7;
 }
 
 .u-col-span-7-9 {
@@ -712,6 +764,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 7/span 9;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 7;
 }
 
 .u-col-span-7-10 {
@@ -720,6 +773,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 7/span 10;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 7;
 }
 
 .u-col-span-7-11 {
@@ -728,6 +782,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 7/span 11;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 7;
 }
 
 .u-col-span-7-12 {
@@ -736,6 +791,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 7/span 12;
   grid-column-span: 6;
   -ms-grid-column-span: 6;
+  -ms-grid-column: 7;
 }
 
 .u-col-span-8-9 {
@@ -744,6 +800,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 8/span 9;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 8;
 }
 
 .u-col-span-8-10 {
@@ -752,6 +809,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 8/span 10;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 8;
 }
 
 .u-col-span-8-11 {
@@ -760,6 +818,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 8/span 11;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 8;
 }
 
 .u-col-span-8-12 {
@@ -768,6 +827,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 8/span 12;
   grid-column-span: 5;
   -ms-grid-column-span: 5;
+  -ms-grid-column: 8;
 }
 
 .u-col-span-9-10 {
@@ -776,6 +836,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 9/span 10;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 9;
 }
 
 .u-col-span-9-11 {
@@ -784,6 +845,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 9/span 11;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 9;
 }
 
 .u-col-span-9-12 {
@@ -792,6 +854,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 9/span 12;
   grid-column-span: 4;
   -ms-grid-column-span: 4;
+  -ms-grid-column: 9;
 }
 
 .u-col-span-10-11 {
@@ -800,6 +863,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 10/span 11;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 10;
 }
 
 .u-col-span-10-12 {
@@ -808,6 +872,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 10/span 12;
   grid-column-span: 3;
   -ms-grid-column-span: 3;
+  -ms-grid-column: 10;
 }
 
 .u-col-span-11-12 {
@@ -816,6 +881,7 @@ Contact: cephalodocs@gmail.com
   grid-column: 11/span 12;
   grid-column-span: 2;
   -ms-grid-column-span: 2;
+  -ms-grid-column: 11;
 }
 
 @media (max-width: 60em) and (min-width: 40em) {
@@ -1065,6 +1131,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 2;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-3-l {
@@ -1073,6 +1140,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 3;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-4-l {
@@ -1081,6 +1149,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 4;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-5-l {
@@ -1089,6 +1158,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 5;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-6-l {
@@ -1097,6 +1167,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 6;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-7-l {
@@ -1105,6 +1176,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 7;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-8-l {
@@ -1113,6 +1185,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 8;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-9-l {
@@ -1121,6 +1194,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 9;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-10-l {
@@ -1129,6 +1203,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 10;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-11-l {
@@ -1137,6 +1212,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 11;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-12-l {
@@ -1145,6 +1221,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 12;
     grid-column-span: 12;
     -ms-grid-column-span: 12;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-2-3-l {
@@ -1153,6 +1230,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 3;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-4-l {
@@ -1161,6 +1239,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 4;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-5-l {
@@ -1169,6 +1248,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 5;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-6-l {
@@ -1177,6 +1257,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 6;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-7-l {
@@ -1185,6 +1266,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 7;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-8-l {
@@ -1193,6 +1275,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 8;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-9-l {
@@ -1201,6 +1284,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 9;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-10-l {
@@ -1209,6 +1293,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 10;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-11-l {
@@ -1217,6 +1302,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 11;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-12-l {
@@ -1225,6 +1311,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 12;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-3-4-l {
@@ -1233,6 +1320,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 4;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-5-l {
@@ -1241,6 +1329,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 5;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-6-l {
@@ -1249,6 +1338,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 6;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-7-l {
@@ -1257,6 +1347,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 7;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-8-l {
@@ -1265,6 +1356,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 8;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-9-l {
@@ -1273,6 +1365,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 9;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-10-l {
@@ -1281,6 +1374,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 10;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-11-l {
@@ -1289,6 +1383,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 11;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-12-l {
@@ -1297,6 +1392,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 12;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-4-5-l {
@@ -1305,6 +1401,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 5;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-6-l {
@@ -1313,6 +1410,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 6;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-7-l {
@@ -1321,6 +1419,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 7;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-8-l {
@@ -1329,6 +1428,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 8;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-9-l {
@@ -1337,6 +1437,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 9;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-10-l {
@@ -1345,6 +1446,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 10;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-11-l {
@@ -1353,6 +1455,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 11;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-12-l {
@@ -1361,6 +1464,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 12;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-5-6-l {
@@ -1369,6 +1473,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 6;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-7-l {
@@ -1377,6 +1482,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 7;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-8-l {
@@ -1385,6 +1491,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 8;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-9-l {
@@ -1393,6 +1500,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 9;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-10-l {
@@ -1401,6 +1509,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 10;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-11-l {
@@ -1409,6 +1518,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 11;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-12-l {
@@ -1417,6 +1527,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 12;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-6-7-l {
@@ -1425,6 +1536,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 7;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-8-l {
@@ -1433,6 +1545,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 8;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-9-l {
@@ -1441,6 +1554,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 9;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-10-l {
@@ -1449,6 +1563,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 10;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-11-l {
@@ -1457,6 +1572,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 11;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-12-l {
@@ -1465,6 +1581,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 12;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-7-8-l {
@@ -1473,6 +1590,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 8;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-9-l {
@@ -1481,6 +1599,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 9;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-10-l {
@@ -1489,6 +1608,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 10;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-11-l {
@@ -1497,6 +1617,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 11;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-12-l {
@@ -1505,6 +1626,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 12;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-8-9-l {
@@ -1513,6 +1635,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 9;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-10-l {
@@ -1521,6 +1644,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 10;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-11-l {
@@ -1529,6 +1653,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 11;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-12-l {
@@ -1537,6 +1662,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 12;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-9-10-l {
@@ -1545,6 +1671,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 10;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-11-l {
@@ -1553,6 +1680,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 11;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-12-l {
@@ -1561,6 +1689,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 12;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-10-11-l {
@@ -1569,6 +1698,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 11;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-10-12-l {
@@ -1577,6 +1707,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 12;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-11-12-l {
@@ -1585,6 +1716,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 11/span 12;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 11;
   }
 }
 @media (max-width: 40em) and (min-width: 30em) {
@@ -1834,6 +1966,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 2;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-3-m {
@@ -1842,6 +1975,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 3;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-4-m {
@@ -1850,6 +1984,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 4;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-5-m {
@@ -1858,6 +1993,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 5;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-6-m {
@@ -1866,6 +2002,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 6;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-7-m {
@@ -1874,6 +2011,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 7;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-8-m {
@@ -1882,6 +2020,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 8;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-9-m {
@@ -1890,6 +2029,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 9;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-10-m {
@@ -1898,6 +2038,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 10;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-11-m {
@@ -1906,6 +2047,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 11;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-12-m {
@@ -1914,6 +2056,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 12;
     grid-column-span: 12;
     -ms-grid-column-span: 12;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-2-3-m {
@@ -1922,6 +2065,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 3;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-4-m {
@@ -1930,6 +2074,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 4;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-5-m {
@@ -1938,6 +2083,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 5;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-6-m {
@@ -1946,6 +2092,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 6;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-7-m {
@@ -1954,6 +2101,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 7;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-8-m {
@@ -1962,6 +2110,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 8;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-9-m {
@@ -1970,6 +2119,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 9;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-10-m {
@@ -1978,6 +2128,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 10;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-11-m {
@@ -1986,6 +2137,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 11;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-12-m {
@@ -1994,6 +2146,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 12;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-3-4-m {
@@ -2002,6 +2155,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 4;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-5-m {
@@ -2010,6 +2164,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 5;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-6-m {
@@ -2018,6 +2173,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 6;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-7-m {
@@ -2026,6 +2182,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 7;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-8-m {
@@ -2034,6 +2191,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 8;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-9-m {
@@ -2042,6 +2200,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 9;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-10-m {
@@ -2050,6 +2209,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 10;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-11-m {
@@ -2058,6 +2218,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 11;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-12-m {
@@ -2066,6 +2227,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 12;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-4-5-m {
@@ -2074,6 +2236,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 5;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-6-m {
@@ -2082,6 +2245,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 6;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-7-m {
@@ -2090,6 +2254,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 7;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-8-m {
@@ -2098,6 +2263,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 8;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-9-m {
@@ -2106,6 +2272,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 9;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-10-m {
@@ -2114,6 +2281,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 10;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-11-m {
@@ -2122,6 +2290,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 11;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-12-m {
@@ -2130,6 +2299,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 12;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-5-6-m {
@@ -2138,6 +2308,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 6;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-7-m {
@@ -2146,6 +2317,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 7;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-8-m {
@@ -2154,6 +2326,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 8;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-9-m {
@@ -2162,6 +2335,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 9;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-10-m {
@@ -2170,6 +2344,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 10;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-11-m {
@@ -2178,6 +2353,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 11;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-12-m {
@@ -2186,6 +2362,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 12;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-6-7-m {
@@ -2194,6 +2371,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 7;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-8-m {
@@ -2202,6 +2380,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 8;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-9-m {
@@ -2210,6 +2389,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 9;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-10-m {
@@ -2218,6 +2398,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 10;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-11-m {
@@ -2226,6 +2407,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 11;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-12-m {
@@ -2234,6 +2416,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 12;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-7-8-m {
@@ -2242,6 +2425,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 8;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-9-m {
@@ -2250,6 +2434,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 9;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-10-m {
@@ -2258,6 +2443,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 10;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-11-m {
@@ -2266,6 +2452,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 11;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-12-m {
@@ -2274,6 +2461,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 12;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-8-9-m {
@@ -2282,6 +2470,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 9;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-10-m {
@@ -2290,6 +2479,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 10;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-11-m {
@@ -2298,6 +2488,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 11;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-12-m {
@@ -2306,6 +2497,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 12;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-9-10-m {
@@ -2314,6 +2506,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 10;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-11-m {
@@ -2322,6 +2515,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 11;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-12-m {
@@ -2330,6 +2524,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 12;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-10-11-m {
@@ -2338,6 +2533,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 11;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-10-12-m {
@@ -2346,6 +2542,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 12;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-11-12-m {
@@ -2354,6 +2551,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 11/span 12;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 11;
   }
 }
 @media (min-width: 30em) {
@@ -2603,6 +2801,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 2;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-3-ns {
@@ -2611,6 +2810,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 3;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-4-ns {
@@ -2619,6 +2819,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 4;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-5-ns {
@@ -2627,6 +2828,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 5;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-6-ns {
@@ -2635,6 +2837,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 6;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-7-ns {
@@ -2643,6 +2846,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 7;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-8-ns {
@@ -2651,6 +2855,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 8;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-9-ns {
@@ -2659,6 +2864,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 9;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-10-ns {
@@ -2667,6 +2873,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 10;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-11-ns {
@@ -2675,6 +2882,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 11;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-1-12-ns {
@@ -2683,6 +2891,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 1/span 12;
     grid-column-span: 12;
     -ms-grid-column-span: 12;
+    -ms-grid-column: 1;
   }
 
   .u-col-span-2-3-ns {
@@ -2691,6 +2900,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 3;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-4-ns {
@@ -2699,6 +2909,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 4;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-5-ns {
@@ -2707,6 +2918,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 5;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-6-ns {
@@ -2715,6 +2927,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 6;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-7-ns {
@@ -2723,6 +2936,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 7;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-8-ns {
@@ -2731,6 +2945,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 8;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-9-ns {
@@ -2739,6 +2954,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 9;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-10-ns {
@@ -2747,6 +2963,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 10;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-11-ns {
@@ -2755,6 +2972,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 11;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-2-12-ns {
@@ -2763,6 +2981,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 2/span 12;
     grid-column-span: 11;
     -ms-grid-column-span: 11;
+    -ms-grid-column: 2;
   }
 
   .u-col-span-3-4-ns {
@@ -2771,6 +2990,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 4;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-5-ns {
@@ -2779,6 +2999,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 5;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-6-ns {
@@ -2787,6 +3008,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 6;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-7-ns {
@@ -2795,6 +3017,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 7;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-8-ns {
@@ -2803,6 +3026,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 8;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-9-ns {
@@ -2811,6 +3035,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 9;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-10-ns {
@@ -2819,6 +3044,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 10;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-11-ns {
@@ -2827,6 +3053,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 11;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-3-12-ns {
@@ -2835,6 +3062,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 3/span 12;
     grid-column-span: 10;
     -ms-grid-column-span: 10;
+    -ms-grid-column: 3;
   }
 
   .u-col-span-4-5-ns {
@@ -2843,6 +3071,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 5;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-6-ns {
@@ -2851,6 +3080,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 6;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-7-ns {
@@ -2859,6 +3089,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 7;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-8-ns {
@@ -2867,6 +3098,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 8;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-9-ns {
@@ -2875,6 +3107,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 9;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-10-ns {
@@ -2883,6 +3116,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 10;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-11-ns {
@@ -2891,6 +3125,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 11;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-4-12-ns {
@@ -2899,6 +3134,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 4/span 12;
     grid-column-span: 9;
     -ms-grid-column-span: 9;
+    -ms-grid-column: 4;
   }
 
   .u-col-span-5-6-ns {
@@ -2907,6 +3143,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 6;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-7-ns {
@@ -2915,6 +3152,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 7;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-8-ns {
@@ -2923,6 +3161,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 8;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-9-ns {
@@ -2931,6 +3170,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 9;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-10-ns {
@@ -2939,6 +3179,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 10;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-11-ns {
@@ -2947,6 +3188,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 11;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-5-12-ns {
@@ -2955,6 +3197,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 5/span 12;
     grid-column-span: 8;
     -ms-grid-column-span: 8;
+    -ms-grid-column: 5;
   }
 
   .u-col-span-6-7-ns {
@@ -2963,6 +3206,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 7;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-8-ns {
@@ -2971,6 +3215,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 8;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-9-ns {
@@ -2979,6 +3224,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 9;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-10-ns {
@@ -2987,6 +3233,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 10;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-11-ns {
@@ -2995,6 +3242,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 11;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-6-12-ns {
@@ -3003,6 +3251,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 6/span 12;
     grid-column-span: 7;
     -ms-grid-column-span: 7;
+    -ms-grid-column: 6;
   }
 
   .u-col-span-7-8-ns {
@@ -3011,6 +3260,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 8;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-9-ns {
@@ -3019,6 +3269,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 9;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-10-ns {
@@ -3027,6 +3278,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 10;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-11-ns {
@@ -3035,6 +3287,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 11;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-7-12-ns {
@@ -3043,6 +3296,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 7/span 12;
     grid-column-span: 6;
     -ms-grid-column-span: 6;
+    -ms-grid-column: 7;
   }
 
   .u-col-span-8-9-ns {
@@ -3051,6 +3305,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 9;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-10-ns {
@@ -3059,6 +3314,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 10;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-11-ns {
@@ -3067,6 +3323,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 11;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-8-12-ns {
@@ -3075,6 +3332,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 8/span 12;
     grid-column-span: 5;
     -ms-grid-column-span: 5;
+    -ms-grid-column: 8;
   }
 
   .u-col-span-9-10-ns {
@@ -3083,6 +3341,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 10;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-11-ns {
@@ -3091,6 +3350,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 11;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-9-12-ns {
@@ -3099,6 +3359,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 9/span 12;
     grid-column-span: 4;
     -ms-grid-column-span: 4;
+    -ms-grid-column: 9;
   }
 
   .u-col-span-10-11-ns {
@@ -3107,6 +3368,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 11;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-10-12-ns {
@@ -3115,6 +3377,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 10/span 12;
     grid-column-span: 3;
     -ms-grid-column-span: 3;
+    -ms-grid-column: 10;
   }
 
   .u-col-span-11-12-ns {
@@ -3123,6 +3386,7 @@ Contact: cephalodocs@gmail.com
     grid-column: 11/span 12;
     grid-column-span: 2;
     -ms-grid-column-span: 2;
+    -ms-grid-column: 11;
   }
 }
 

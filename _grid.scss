@@ -35,6 +35,7 @@ $col-span-slug: u-col-span;
 	grid-column: $start / span $end;
 	grid-column-span: ($end - $start) + 1;
 	-ms-grid-column-span: ($end - $start) + 1;
+  -ms-grid-column: $start;
 }
 
 @mixin span-row($start, $end) {
@@ -43,6 +44,7 @@ $col-span-slug: u-col-span;
 	grid-row: $start / span $end;
 	grid-row-span: ($end - $start) + 1;
 	-ms-grid-row-span: ($end - $start) + 1;
+  -ms-grid-row: $start;
 }
 
 @mixin col($col) {
