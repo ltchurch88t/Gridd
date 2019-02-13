@@ -1,5 +1,5 @@
 {
-  "name": "gridd",
+  "name": "tachy-grid",
   "version": "1.0.0",
   "description": "Grid Framework compatible with IE",
   "main": "grid.css",
