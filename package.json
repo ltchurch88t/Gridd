@@ -1,0 +1,27 @@
+{
+  "name": "gridd",
+  "version": "1.0.0",
+  "description": "Grid Framework compatible with IE",
+  "main": "grid.css",
+  "scripts": {
+  },
+  "unpkg": "grid.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltchurch88t/Gridd.git"
+  },
+  "keywords": [
+    "Grid",
+    "Framework",
+    "CSS",
+    "SCSS",
+    "CSS",
+    "grid"
+  ],
+  "author": "LaForrest Church",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltchurch88t/Gridd/issues"
+  },
+  "homepage": "https://github.com/ltchurch88t/gridd"
+}
