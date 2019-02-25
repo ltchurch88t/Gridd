@@ -32,8 +32,7 @@ $col-span-slug: u-col-span;
 @mixin span-col($start, $end) {
 	grid-column-start: $start;
 	grid-column-end: $end;
-	grid-column: $start / span $end;
-	grid-column-span: ($end - $start) + 1;
+	grid-column: $start / span (($end - $start) + 1);
 	-ms-grid-column-span: ($end - $start) + 1;
   -ms-grid-column: $start;
 }
@@ -41,8 +40,7 @@ $col-span-slug: u-col-span;
 @mixin span-row($start, $end) {
 	grid-row-start: $start;
 	grid-row-end: $end;
-	grid-row: $start / span $end;
-	grid-row-span: ($end - $start) + 1;
+	grid-row: $start / span (($end - $start) + 1);
 	-ms-grid-row-span: ($end - $start) + 1;
   -ms-grid-row: $start;
 }
