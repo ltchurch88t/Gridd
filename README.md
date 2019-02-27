@@ -1,5 +1,5 @@
 # Tachy-Grid
-CSS Grid Framework pre-built with IE 10+ compatibility
+CSS Grid Framework pre-built with IE compatibility
 
 ## CDN and NPM
 CDN: [https://unpkg.com/tachy-grid@latest/grid.min.css](https://unpkg.com/tachy-grid@latest/grid.min.css)
