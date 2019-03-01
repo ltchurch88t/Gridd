@@ -51,122 +51,122 @@ Contact: cephalodocs@gmail.com
 }
 
 .grid-cols-1 {
-  -ms-grid-columns: repeat(1, 1fr);
+  -ms-grid-columns: 1fr [1];
   grid-template-columns: repeat(1, 1fr);
 }
 
 .grid-rows-1 {
-  -ms-grid-rows: repeat(1, 1fr);
+  -ms-grid-rows: 1fr [1];
   grid-template-rows: repeat(1, 1fr);
 }
 
 .grid-cols-2 {
-  -ms-grid-columns: repeat(2, 1fr);
+  -ms-grid-columns: 1fr [2];
   grid-template-columns: repeat(2, 1fr);
 }
 
 .grid-rows-2 {
-  -ms-grid-rows: repeat(2, 1fr);
+  -ms-grid-rows: 1fr [2];
   grid-template-rows: repeat(2, 1fr);
 }
 
 .grid-cols-3 {
-  -ms-grid-columns: repeat(3, 1fr);
+  -ms-grid-columns: 1fr [3];
   grid-template-columns: repeat(3, 1fr);
 }
 
 .grid-rows-3 {
-  -ms-grid-rows: repeat(3, 1fr);
+  -ms-grid-rows: 1fr [3];
   grid-template-rows: repeat(3, 1fr);
 }
 
 .grid-cols-4 {
-  -ms-grid-columns: repeat(4, 1fr);
+  -ms-grid-columns: 1fr [4];
   grid-template-columns: repeat(4, 1fr);
 }
 
 .grid-rows-4 {
-  -ms-grid-rows: repeat(4, 1fr);
+  -ms-grid-rows: 1fr [4];
   grid-template-rows: repeat(4, 1fr);
 }
 
 .grid-cols-5 {
-  -ms-grid-columns: repeat(5, 1fr);
+  -ms-grid-columns: 1fr [5];
   grid-template-columns: repeat(5, 1fr);
 }
 
 .grid-rows-5 {
-  -ms-grid-rows: repeat(5, 1fr);
+  -ms-grid-rows: 1fr [5];
   grid-template-rows: repeat(5, 1fr);
 }
 
 .grid-cols-6 {
-  -ms-grid-columns: repeat(6, 1fr);
+  -ms-grid-columns: 1fr [6];
   grid-template-columns: repeat(6, 1fr);
 }
 
 .grid-rows-6 {
-  -ms-grid-rows: repeat(6, 1fr);
+  -ms-grid-rows: 1fr [6];
   grid-template-rows: repeat(6, 1fr);
 }
 
 .grid-cols-7 {
-  -ms-grid-columns: repeat(7, 1fr);
+  -ms-grid-columns: 1fr [7];
   grid-template-columns: repeat(7, 1fr);
 }
 
 .grid-rows-7 {
-  -ms-grid-rows: repeat(7, 1fr);
+  -ms-grid-rows: 1fr [7];
   grid-template-rows: repeat(7, 1fr);
 }
 
 .grid-cols-8 {
-  -ms-grid-columns: repeat(8, 1fr);
+  -ms-grid-columns: 1fr [8];
   grid-template-columns: repeat(8, 1fr);
 }
 
 .grid-rows-8 {
-  -ms-grid-rows: repeat(8, 1fr);
+  -ms-grid-rows: 1fr [8];
   grid-template-rows: repeat(8, 1fr);
 }
 
 .grid-cols-9 {
-  -ms-grid-columns: repeat(9, 1fr);
+  -ms-grid-columns: 1fr [9];
   grid-template-columns: repeat(9, 1fr);
 }
 
 .grid-rows-9 {
-  -ms-grid-rows: repeat(9, 1fr);
+  -ms-grid-rows: 1fr [9];
   grid-template-rows: repeat(9, 1fr);
 }
 
 .grid-cols-10 {
-  -ms-grid-columns: repeat(10, 1fr);
+  -ms-grid-columns: 1fr [10];
   grid-template-columns: repeat(10, 1fr);
 }
 
 .grid-rows-10 {
-  -ms-grid-rows: repeat(10, 1fr);
+  -ms-grid-rows: 1fr [10];
   grid-template-rows: repeat(10, 1fr);
 }
 
 .grid-cols-11 {
-  -ms-grid-columns: repeat(11, 1fr);
+  -ms-grid-columns: 1fr [11];
   grid-template-columns: repeat(11, 1fr);
 }
 
 .grid-rows-11 {
-  -ms-grid-rows: repeat(11, 1fr);
+  -ms-grid-rows: 1fr [11];
   grid-template-rows: repeat(11, 1fr);
 }
 
 .grid-cols-12 {
-  -ms-grid-columns: repeat(12, 1fr);
+  -ms-grid-columns: 1fr [12];
   grid-template-columns: repeat(12, 1fr);
 }
 
 .grid-rows-12 {
-  -ms-grid-rows: repeat(12, 1fr);
+  -ms-grid-rows: 1fr [12];
   grid-template-rows: repeat(12, 1fr);
 }
 
@@ -1348,122 +1348,122 @@ Contact: cephalodocs@gmail.com
 
 @media (min-width: 60em) {
   .grid-cols-1-l {
-    -ms-grid-columns: repeat(1, 1fr);
+    -ms-grid-columns: 1fr [1];
     grid-template-columns: repeat(1, 1fr);
   }
 
   .grid-rows-1-l {
-    -ms-grid-rows: repeat(1, 1fr);
+    -ms-grid-rows: 1fr [1];
     grid-template-rows: repeat(1, 1fr);
   }
 
   .grid-cols-2-l {
-    -ms-grid-columns: repeat(2, 1fr);
+    -ms-grid-columns: 1fr [2];
     grid-template-columns: repeat(2, 1fr);
   }
 
   .grid-rows-2-l {
-    -ms-grid-rows: repeat(2, 1fr);
+    -ms-grid-rows: 1fr [2];
     grid-template-rows: repeat(2, 1fr);
   }
 
   .grid-cols-3-l {
-    -ms-grid-columns: repeat(3, 1fr);
+    -ms-grid-columns: 1fr [3];
     grid-template-columns: repeat(3, 1fr);
   }
 
   .grid-rows-3-l {
-    -ms-grid-rows: repeat(3, 1fr);
+    -ms-grid-rows: 1fr [3];
     grid-template-rows: repeat(3, 1fr);
   }
 
   .grid-cols-4-l {
-    -ms-grid-columns: repeat(4, 1fr);
+    -ms-grid-columns: 1fr [4];
     grid-template-columns: repeat(4, 1fr);
   }
 
   .grid-rows-4-l {
-    -ms-grid-rows: repeat(4, 1fr);
+    -ms-grid-rows: 1fr [4];
     grid-template-rows: repeat(4, 1fr);
   }
 
   .grid-cols-5-l {
-    -ms-grid-columns: repeat(5, 1fr);
+    -ms-grid-columns: 1fr [5];
     grid-template-columns: repeat(5, 1fr);
   }
 
   .grid-rows-5-l {
-    -ms-grid-rows: repeat(5, 1fr);
+    -ms-grid-rows: 1fr [5];
     grid-template-rows: repeat(5, 1fr);
   }
 
   .grid-cols-6-l {
-    -ms-grid-columns: repeat(6, 1fr);
+    -ms-grid-columns: 1fr [6];
     grid-template-columns: repeat(6, 1fr);
   }
 
   .grid-rows-6-l {
-    -ms-grid-rows: repeat(6, 1fr);
+    -ms-grid-rows: 1fr [6];
     grid-template-rows: repeat(6, 1fr);
   }
 
   .grid-cols-7-l {
-    -ms-grid-columns: repeat(7, 1fr);
+    -ms-grid-columns: 1fr [7];
     grid-template-columns: repeat(7, 1fr);
   }
 
   .grid-rows-7-l {
-    -ms-grid-rows: repeat(7, 1fr);
+    -ms-grid-rows: 1fr [7];
     grid-template-rows: repeat(7, 1fr);
   }
 
   .grid-cols-8-l {
-    -ms-grid-columns: repeat(8, 1fr);
+    -ms-grid-columns: 1fr [8];
     grid-template-columns: repeat(8, 1fr);
   }
 
   .grid-rows-8-l {
-    -ms-grid-rows: repeat(8, 1fr);
+    -ms-grid-rows: 1fr [8];
     grid-template-rows: repeat(8, 1fr);
   }
 
   .grid-cols-9-l {
-    -ms-grid-columns: repeat(9, 1fr);
+    -ms-grid-columns: 1fr [9];
     grid-template-columns: repeat(9, 1fr);
   }
 
   .grid-rows-9-l {
-    -ms-grid-rows: repeat(9, 1fr);
+    -ms-grid-rows: 1fr [9];
     grid-template-rows: repeat(9, 1fr);
   }
 
   .grid-cols-10-l {
-    -ms-grid-columns: repeat(10, 1fr);
+    -ms-grid-columns: 1fr [10];
     grid-template-columns: repeat(10, 1fr);
   }
 
   .grid-rows-10-l {
-    -ms-grid-rows: repeat(10, 1fr);
+    -ms-grid-rows: 1fr [10];
     grid-template-rows: repeat(10, 1fr);
   }
 
   .grid-cols-11-l {
-    -ms-grid-columns: repeat(11, 1fr);
+    -ms-grid-columns: 1fr [11];
     grid-template-columns: repeat(11, 1fr);
   }
 
   .grid-rows-11-l {
-    -ms-grid-rows: repeat(11, 1fr);
+    -ms-grid-rows: 1fr [11];
     grid-template-rows: repeat(11, 1fr);
   }
 
   .grid-cols-12-l {
-    -ms-grid-columns: repeat(12, 1fr);
+    -ms-grid-columns: 1fr [12];
     grid-template-columns: repeat(12, 1fr);
   }
 
   .grid-rows-12-l {
-    -ms-grid-rows: repeat(12, 1fr);
+    -ms-grid-rows: 1fr [12];
     grid-template-rows: repeat(12, 1fr);
   }
 
@@ -2645,122 +2645,122 @@ Contact: cephalodocs@gmail.com
 }
 @media (max-width: 60em) and (min-width: 30em) {
   .grid-cols-1-m {
-    -ms-grid-columns: repeat(1, 1fr);
+    -ms-grid-columns: 1fr [1];
     grid-template-columns: repeat(1, 1fr);
   }
 
   .grid-rows-1-m {
-    -ms-grid-rows: repeat(1, 1fr);
+    -ms-grid-rows: 1fr [1];
     grid-template-rows: repeat(1, 1fr);
   }
 
   .grid-cols-2-m {
-    -ms-grid-columns: repeat(2, 1fr);
+    -ms-grid-columns: 1fr [2];
     grid-template-columns: repeat(2, 1fr);
   }
 
   .grid-rows-2-m {
-    -ms-grid-rows: repeat(2, 1fr);
+    -ms-grid-rows: 1fr [2];
     grid-template-rows: repeat(2, 1fr);
   }
 
   .grid-cols-3-m {
-    -ms-grid-columns: repeat(3, 1fr);
+    -ms-grid-columns: 1fr [3];
     grid-template-columns: repeat(3, 1fr);
   }
 
   .grid-rows-3-m {
-    -ms-grid-rows: repeat(3, 1fr);
+    -ms-grid-rows: 1fr [3];
     grid-template-rows: repeat(3, 1fr);
   }
 
   .grid-cols-4-m {
-    -ms-grid-columns: repeat(4, 1fr);
+    -ms-grid-columns: 1fr [4];
     grid-template-columns: repeat(4, 1fr);
   }
 
   .grid-rows-4-m {
-    -ms-grid-rows: repeat(4, 1fr);
+    -ms-grid-rows: 1fr [4];
     grid-template-rows: repeat(4, 1fr);
   }
 
   .grid-cols-5-m {
-    -ms-grid-columns: repeat(5, 1fr);
+    -ms-grid-columns: 1fr [5];
     grid-template-columns: repeat(5, 1fr);
   }
 
   .grid-rows-5-m {
-    -ms-grid-rows: repeat(5, 1fr);
+    -ms-grid-rows: 1fr [5];
     grid-template-rows: repeat(5, 1fr);
   }
 
   .grid-cols-6-m {
-    -ms-grid-columns: repeat(6, 1fr);
+    -ms-grid-columns: 1fr [6];
     grid-template-columns: repeat(6, 1fr);
   }
 
   .grid-rows-6-m {
-    -ms-grid-rows: repeat(6, 1fr);
+    -ms-grid-rows: 1fr [6];
     grid-template-rows: repeat(6, 1fr);
   }
 
   .grid-cols-7-m {
-    -ms-grid-columns: repeat(7, 1fr);
+    -ms-grid-columns: 1fr [7];
     grid-template-columns: repeat(7, 1fr);
   }
 
   .grid-rows-7-m {
-    -ms-grid-rows: repeat(7, 1fr);
+    -ms-grid-rows: 1fr [7];
     grid-template-rows: repeat(7, 1fr);
   }
 
   .grid-cols-8-m {
-    -ms-grid-columns: repeat(8, 1fr);
+    -ms-grid-columns: 1fr [8];
     grid-template-columns: repeat(8, 1fr);
   }
 
   .grid-rows-8-m {
-    -ms-grid-rows: repeat(8, 1fr);
+    -ms-grid-rows: 1fr [8];
     grid-template-rows: repeat(8, 1fr);
   }
 
   .grid-cols-9-m {
-    -ms-grid-columns: repeat(9, 1fr);
+    -ms-grid-columns: 1fr [9];
     grid-template-columns: repeat(9, 1fr);
   }
 
   .grid-rows-9-m {
-    -ms-grid-rows: repeat(9, 1fr);
+    -ms-grid-rows: 1fr [9];
     grid-template-rows: repeat(9, 1fr);
   }
 
   .grid-cols-10-m {
-    -ms-grid-columns: repeat(10, 1fr);
+    -ms-grid-columns: 1fr [10];
     grid-template-columns: repeat(10, 1fr);
   }
 
   .grid-rows-10-m {
-    -ms-grid-rows: repeat(10, 1fr);
+    -ms-grid-rows: 1fr [10];
     grid-template-rows: repeat(10, 1fr);
   }
 
   .grid-cols-11-m {
-    -ms-grid-columns: repeat(11, 1fr);
+    -ms-grid-columns: 1fr [11];
     grid-template-columns: repeat(11, 1fr);
   }
 
   .grid-rows-11-m {
-    -ms-grid-rows: repeat(11, 1fr);
+    -ms-grid-rows: 1fr [11];
     grid-template-rows: repeat(11, 1fr);
   }
 
   .grid-cols-12-m {
-    -ms-grid-columns: repeat(12, 1fr);
+    -ms-grid-columns: 1fr [12];
     grid-template-columns: repeat(12, 1fr);
   }
 
   .grid-rows-12-m {
-    -ms-grid-rows: repeat(12, 1fr);
+    -ms-grid-rows: 1fr [12];
     grid-template-rows: repeat(12, 1fr);
   }
 
@@ -3942,122 +3942,122 @@ Contact: cephalodocs@gmail.com
 }
 @media (min-width: 30em) {
   .grid-cols-1-ns {
-    -ms-grid-columns: repeat(1, 1fr);
+    -ms-grid-columns: 1fr [1];
     grid-template-columns: repeat(1, 1fr);
   }
 
   .grid-rows-1-ns {
-    -ms-grid-rows: repeat(1, 1fr);
+    -ms-grid-rows: 1fr [1];
     grid-template-rows: repeat(1, 1fr);
   }
 
   .grid-cols-2-ns {
-    -ms-grid-columns: repeat(2, 1fr);
+    -ms-grid-columns: 1fr [2];
     grid-template-columns: repeat(2, 1fr);
   }
 
   .grid-rows-2-ns {
-    -ms-grid-rows: repeat(2, 1fr);
+    -ms-grid-rows: 1fr [2];
     grid-template-rows: repeat(2, 1fr);
   }
 
   .grid-cols-3-ns {
-    -ms-grid-columns: repeat(3, 1fr);
+    -ms-grid-columns: 1fr [3];
     grid-template-columns: repeat(3, 1fr);
   }
 
   .grid-rows-3-ns {
-    -ms-grid-rows: repeat(3, 1fr);
+    -ms-grid-rows: 1fr [3];
     grid-template-rows: repeat(3, 1fr);
   }
 
   .grid-cols-4-ns {
-    -ms-grid-columns: repeat(4, 1fr);
+    -ms-grid-columns: 1fr [4];
     grid-template-columns: repeat(4, 1fr);
   }
 
   .grid-rows-4-ns {
-    -ms-grid-rows: repeat(4, 1fr);
+    -ms-grid-rows: 1fr [4];
     grid-template-rows: repeat(4, 1fr);
   }
 
   .grid-cols-5-ns {
-    -ms-grid-columns: repeat(5, 1fr);
+    -ms-grid-columns: 1fr [5];
     grid-template-columns: repeat(5, 1fr);
   }
 
   .grid-rows-5-ns {
-    -ms-grid-rows: repeat(5, 1fr);
+    -ms-grid-rows: 1fr [5];
     grid-template-rows: repeat(5, 1fr);
   }
 
   .grid-cols-6-ns {
-    -ms-grid-columns: repeat(6, 1fr);
+    -ms-grid-columns: 1fr [6];
     grid-template-columns: repeat(6, 1fr);
   }
 
   .grid-rows-6-ns {
-    -ms-grid-rows: repeat(6, 1fr);
+    -ms-grid-rows: 1fr [6];
     grid-template-rows: repeat(6, 1fr);
   }
 
   .grid-cols-7-ns {
-    -ms-grid-columns: repeat(7, 1fr);
+    -ms-grid-columns: 1fr [7];
     grid-template-columns: repeat(7, 1fr);
   }
 
   .grid-rows-7-ns {
-    -ms-grid-rows: repeat(7, 1fr);
+    -ms-grid-rows: 1fr [7];
     grid-template-rows: repeat(7, 1fr);
   }
 
   .grid-cols-8-ns {
-    -ms-grid-columns: repeat(8, 1fr);
+    -ms-grid-columns: 1fr [8];
     grid-template-columns: repeat(8, 1fr);
   }
 
   .grid-rows-8-ns {
-    -ms-grid-rows: repeat(8, 1fr);
+    -ms-grid-rows: 1fr [8];
     grid-template-rows: repeat(8, 1fr);
   }
 
   .grid-cols-9-ns {
-    -ms-grid-columns: repeat(9, 1fr);
+    -ms-grid-columns: 1fr [9];
     grid-template-columns: repeat(9, 1fr);
   }
 
   .grid-rows-9-ns {
-    -ms-grid-rows: repeat(9, 1fr);
+    -ms-grid-rows: 1fr [9];
     grid-template-rows: repeat(9, 1fr);
   }
 
   .grid-cols-10-ns {
-    -ms-grid-columns: repeat(10, 1fr);
+    -ms-grid-columns: 1fr [10];
     grid-template-columns: repeat(10, 1fr);
   }
 
   .grid-rows-10-ns {
-    -ms-grid-rows: repeat(10, 1fr);
+    -ms-grid-rows: 1fr [10];
     grid-template-rows: repeat(10, 1fr);
   }
 
   .grid-cols-11-ns {
-    -ms-grid-columns: repeat(11, 1fr);
+    -ms-grid-columns: 1fr [11];
     grid-template-columns: repeat(11, 1fr);
   }
 
   .grid-rows-11-ns {
-    -ms-grid-rows: repeat(11, 1fr);
+    -ms-grid-rows: 1fr [11];
     grid-template-rows: repeat(11, 1fr);
   }
 
   .grid-cols-12-ns {
-    -ms-grid-columns: repeat(12, 1fr);
+    -ms-grid-columns: 1fr [12];
     grid-template-columns: repeat(12, 1fr);
   }
 
   .grid-rows-12-ns {
-    -ms-grid-rows: repeat(12, 1fr);
+    -ms-grid-rows: 1fr [12];
     grid-template-rows: repeat(12, 1fr);
   }
 

@@ -56,15 +56,13 @@ $col-span-slug: u-col-span;
 }
 
 @mixin grid-rows($num-rows) {
-	$rows: repeat($num-rows, 1fr);
-	-ms-grid-rows: $rows;
-	grid-template-rows: $rows;
+	-ms-grid-rows:(1fr)[$num-rows];
+	grid-template-rows: repeat($num-rows, 1fr);
 }
 
 @mixin grid-cols($num-cols) {
-	$cols: repeat($num-cols, 1fr);
-	-ms-grid-columns: $cols;
-	grid-template-columns: $cols;
+	-ms-grid-columns: (1fr)[$num-cols];
+	grid-template-columns: repeat($num-cols, 1fr);
 }
 
 /* Classes */
