@@ -3,8 +3,7 @@
   "version": "1.0.5",
   "description": "Grid Framework compatible with IE",
   "main": "grid.css",
-  "scripts": {
-  },
+  "scripts": {},
   "unpkg": "grid.min.css",
   "repository": {
     "type": "git",
@@ -23,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ltchurch88t/Gridd/issues"
   },
-  "homepage": "https://github.com/ltchurch88t/gridd"
+  "homepage": "https://github.com/ltchurch88t/gridd",
+  "dependencies": {
+    "sass": "^1.25.0"
+  }
 }

@@ -14,12 +14,12 @@ $three: 1fr 1fr 1fr;
 $four: 1fr 1fr 1fr 1fr;
 $five: 1fr 1fr 1fr 1fr;
 $six: 1fr 1fr 1fr 1fr 1fr 1fr;
-$seven:1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$seven: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 $eight: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 $nine: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 $ten: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-$eleven:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-$twelve:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$eleven: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+$twelve: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 $row-slug: u-row;
 $col-slug: u-col;
 $grid-row-slug: grid-rows;
@@ -27,44 +27,95 @@ $grid-col-slug: grid-cols;
 $row-span-slug: u-row-span;
 $col-span-slug: u-col-span;
 
-
 /* Mixins */
 @mixin span-col($start, $end) {
-	grid-column-start: $start;
-	grid-column-end: $end;
-	grid-column: $start / span (($end - $start) + 1);
-	-ms-grid-column-span: ($end - $start) + 1;
+  grid-column-start: $start;
+  grid-column-end: $end;
+  grid-column: $start / span (($end - $start) + 1);
+  -ms-grid-column-span: ($end - $start) + 1;
   -ms-grid-column: $start;
 }
 
 @mixin span-row($start, $end) {
-	grid-row-start: $start;
-	grid-row-end: $end;
-	grid-row: $start / span (($end - $start) + 1);
-	-ms-grid-row-span: ($end - $start) + 1;
+  grid-row-start: $start;
+  grid-row-end: $end;
+  grid-row: $start / span (($end - $start) + 1);
+  -ms-grid-row-span: ($end - $start) + 1;
   -ms-grid-row: $start;
 }
 
 @mixin col($col) {
-	grid-column: $col;
-	-ms-grid-column: $col;
+  grid-column: $col;
+  -ms-grid-column: $col;
 }
 
 @mixin row($row) {
-	grid-row: $row;
-	-ms-grid-row: $row;
+  grid-row: $row;
+  -ms-grid-row: $row;
 }
 
 @mixin grid-rows($num-rows) {
-	$rows: repeat($num-rows, 1fr);
-	-ms-grid-rows: $rows;
-	grid-template-rows: $rows;
+  $items: '';
+  @if $num-rows == 1 {
+    $items: $one;
+  } @else if $num-rows == 2 {
+    $items: $two;
+  } @else if $num-rows == 3 {
+    $items: $three;
+  } @else if $num-rows == 4 {
+    $items: $four;
+  } @else if $num-rows == 5 {
+    $items: $five;
+  } @else if $num-rows == 6 {
+    $items: $six;
+  } @else if $num-rows == 7 {
+    $items: $seven;
+  } @else if $num-rows == 8 {
+    $items: $eight;
+  } @else if $num-rows == 9 {
+    $items: $nine;
+  } @else if $num-rows == 10 {
+    $items: $ten;
+  } @else if $num-rows == 11 {
+    $items: $eleven;
+  } @else if $num-rows == 12 {
+    $items: $twelve;
+  }
+  $rows: $items;
+  -ms-grid-rows: $rows;
+  grid-template-rows: $rows;
 }
 
 @mixin grid-cols($num-cols) {
-	$cols: repeat($num-cols, 1fr);
-	-ms-grid-columns: $cols;
-	grid-template-columns: $cols;
+  $items: '';
+  @if $num-cols == 1 {
+    $items: $one;
+  } @else if $num-cols == 2 {
+    $items: $two;
+  } @else if $num-cols == 3 {
+    $items: $three;
+  } @else if $num-cols == 4 {
+    $items: $four;
+  } @else if $num-cols == 5 {
+    $items: $five;
+  } @else if $num-cols == 6 {
+    $items: $six;
+  } @else if $num-cols == 7 {
+    $items: $seven;
+  } @else if $num-cols == 8 {
+    $items: $eight;
+  } @else if $num-cols == 9 {
+    $items: $nine;
+  } @else if $num-cols == 10 {
+    $items: $ten;
+  } @else if $num-cols == 11 {
+    $items: $eleven;
+  } @else if $num-cols == 12 {
+    $items: $twelve;
+  }
+  $cols: $items;
+  -ms-grid-columns: $cols;
+  grid-template-columns: $cols;
 }
 
 /* Classes */
@@ -75,7 +126,7 @@ $col-span-slug: u-col-span;
 
 .grid-2x2 {
   display: grid;
-  display: -ms-grid; 
+  display: -ms-grid;
   grid-template-columns: $two;
   -ms-grid-columns: $two;
   grid-template-rows: $two;
@@ -109,41 +160,40 @@ $col-span-slug: u-col-span;
   -ms-grid-rows: $twelve;
 }
 
-
 @for $l from 1 through 12 {
-	.#{$grid-col-slug}-#{$l} {
-		@include grid-cols($l);
-	}
-	.#{$grid-row-slug}-#{$l} {
-		@include grid-rows($l);
-	}
+  .#{$grid-col-slug}-#{$l} {
+    @include grid-cols($l);
+  }
+  .#{$grid-row-slug}-#{$l} {
+    @include grid-rows($l);
+  }
 }
 
 @for $m from 1 through 12 {
-	.#{$col-slug}-#{$m} {
-		@include col($m);
-	}
-	.#{$row-slug}-#{$m} {
-		@include row($m);
-	}
+  .#{$col-slug}-#{$m} {
+    @include col($m);
+  }
+  .#{$row-slug}-#{$m} {
+    @include row($m);
+  }
 }
 
 @for $n from 1 through 12 {
-	@for $i from 1 through 12 {
+  @for $i from 1 through 12 {
     @if ($n < $i) {
       .#{$row-span-slug}-#{$n}-#{$i} {
         @include span-row($n, $i);
       }
     }
-	}
+  }
 
-	@for $i from 1 through 12 {
+  @for $i from 1 through 12 {
     @if ($n < $i) {
       .#{$col-span-slug}-#{$n}-#{$i} {
         @include span-col($n, $i);
       }
     }
-	}
+  }
 }
 
 @media (min-width: 60em) {
