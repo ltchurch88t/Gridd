@@ -2,9 +2,9 @@
   "name": "tachy-grid",
   "version": "1.0.6",
   "description": "Grid Framework compatible with IE",
-  "main": "grid.css",
+  "main": "_grid.min.css",
   "scripts": {},
-  "unpkg": "grid.min.css",
+  "unpkg": "_grid.min.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ltchurch88t/Gridd.git"
